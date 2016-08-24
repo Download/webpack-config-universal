@@ -1,6 +1,6 @@
 {
   "name": "webpack-config-universal",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Base webpack configs for a universal (a.k.a. isomorphic) app.",
   "main": "index.js",
   "scripts": {
